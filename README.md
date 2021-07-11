@@ -1,2 +1,3 @@
 # Baseball_plotting
-Plotting Pitcher's damage and strikeouts
+
+Plotting Batter's damage and strikeouts
